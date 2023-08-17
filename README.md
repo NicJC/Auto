@@ -1,7 +1,7 @@
 # Auto
 Auto mpg
 
-The data is gotten from UCI Machine Learning Repository
+The data is gotten from UCI Machine Learning Repository under a Creative Commons Attribution 4.0 International Public License
 
 Quinlan,R.. (1993). Auto MPG. UCI Machine Learning Repository. https://doi.org/10.24432/C5859H.
 
