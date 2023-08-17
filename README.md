@@ -15,6 +15,6 @@ Quinlan,R.. (1993). Auto MPG. UCI Machine Learning Repository. https://doi.org/1
 
 data available here:
 
-[data]
+[data](https://raw.githubusercontent.com/NicJC/Auto/main/autoMPG.csv)
 
-! (https://github.com/NicJC/Auto/blob/main/matrixPlot.png)
+!(https://github.com/NicJC/Auto/blob/main/matrixPlot.png)
