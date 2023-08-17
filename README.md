@@ -18,6 +18,8 @@ data available here:
 [data](https://raw.githubusercontent.com/NicJC/Auto/main/autoMPG.csv)
 
 ---
+
+    library(GGally)
     ggpairs(autoMPG[,c(1,6,7)],
         mapping = ggplot2::aes(color = model_year),
         upper = list(continuous = wrap("density", alpha = 0.5), combo = "box_no_facet"))+ggplot2::labs(title = "AutoMPG")  + 
