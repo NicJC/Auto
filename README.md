@@ -17,4 +17,4 @@ data available here:
 
 [data](https://raw.githubusercontent.com/NicJC/Auto/main/autoMPG.csv)
 
-!(https://github.com/NicJC/Auto/blob/main/matrixPlot.png)
+![](https://github.com/NicJC/Auto/blob/main/matrixPlot.png)
